@@ -1,3 +1,3 @@
 # Character_count
 
-https://tanguypagee62.github.io/Character-count/
+https://tanguypagee62.github.io/Character_count/
